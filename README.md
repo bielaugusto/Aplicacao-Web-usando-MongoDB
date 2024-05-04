@@ -16,9 +16,9 @@ Também utilizamos `Botstrap`.
 --------------------------------------------------------------------
 
 
-Requisitos para pleno funcionamento do sistema:
+## Requisitos para pleno funcionamento do sistema:
 
-Banco de Dados:
+### Banco de Dados:
 
 
 * Ter instralado o MongoDB na máquina;
@@ -28,7 +28,7 @@ Banco de Dados:
     > collection = db['Pessoas']  
 
 
-Gerais:
+### Gerais:
 
 * Ter isntalado na máquina a versão mais recente do Python;
     > pode ser instalada com o comando: pip install pyton 
@@ -43,4 +43,5 @@ Gerais:
 ----------------------------------------------------------------------
 
 Para acessar a aplicação, basta acessar o diretório no terminal e digitar o seguinte comando:  
-`D:\projetos\TrabalhoNOSQL> python app.py`
+      
+    D:\projetos\TrabalhoNOSQL> python app.py
