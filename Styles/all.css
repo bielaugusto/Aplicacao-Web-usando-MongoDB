@@ -1,4 +1,4 @@
-
+    
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -30,8 +30,6 @@ table{
     padding: 10pt;
     width: 100%;
 }
-
-
 
 .acoes{
     display: flex;
