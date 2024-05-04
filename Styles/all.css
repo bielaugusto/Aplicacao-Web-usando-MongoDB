@@ -1,15 +1,67 @@
-.bi {
-    font-size: 20pt;
-    color:black
-}
-body{
-    background-color: red;
-}
-
-li{
-    background-color: red;
-}
 
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.d-flex {
+    text-align: center;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+
+table{
+    margin-top: 50px;
+    margin-bottom:10px;
+    align-items: center;
+    width: max-content;
+    border: 1pt;
+    border-style:groove;
+    
+    width: 100%;
+}
+
+.tbody td{
+    border: 1pt;
+    border-style:groove;
+    padding: 10pt;
+    width: 100%;
+}
+
+
+
+.acoes{
+    display: flex;
+    justify-content: center;
+    width: min-content;
+    
+}
+
+.bi {
+    font-size: 10pt;
+    color: white;
+    padding: 5pt;
+    border-radius: 5pt;
+}
+
+
+.bi-pencil-fill {
+    background-color: #01075f;
+}
+
+.bi-trash-fill {
+    background-color: rgb(163, 1, 1);
+}
+
+#botao{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#butaoadd {
+    width: 98%;
 }
