@@ -45,8 +45,9 @@ e `Flask-PyMongo`, com o objetivo de fazer a ponte entre o Flask e o MongoBD, ga
 Para acessar a aplicação, basta acessar o diretório no terminal e digitar o seguinte comando:  
       
     D:\projetos\TrabalhoNOSQL> python app.py
+    
+Obs: O diretório pode variar na sua máquina.
 
-## Considerando o diretório do trabalho. O diretório pode variar na sua máquina.
 
 ----------------------------------------------------------------------
 
