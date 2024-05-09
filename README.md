@@ -31,8 +31,8 @@ e `Flask-PyMongo`, com o objetivo de fazer a ponte entre o Flask e o MongoBD, ga
 
 #### É necessário:
 * Ter instalado na máquina a versão mais recente do Python;
-    > pode ser instalada com o comando: pip install pyton 
-    > caso já tenha o Python instalado, para verificar a sua versão, no cmd digite: pip python -V
+    > Pode ser instalada com o comando: pip install pyton.   
+    > Caso já tenha o Python instalado, para verificar a sua versão, no cmd digite: pip python -V
 
 * Ter instalado na máquina o Flask para Python;
     > Pode ser instalada com o seguinte comando: pip install Flask
