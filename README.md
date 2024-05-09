@@ -1,17 +1,16 @@
 # TrabalhoNOSQL
 
-Mano, a gente não sabe o que tá fazendo! :+1:
+TRABALHO 1: Desenvolvimento de CRUD com MongoDB
 
 Utilizamos do `MongoDB` como banco de dados não relacional para armazenar os dados.
 Para apresentar esses dados de forma agradável, implementamos a solução de uma aplicação WEB básica.
 
-Na aplicação, utilizamos de `HTML 5`, `CSS 3`, `JavaScript` e `Python`.
+Na aplicação, utilizamos de `HTML 5`, `CSS 3`, `JavaScript`, `Python` e `Bootstrap`.
 Foram utilizados frameworks do python para auxiliar no desenvolvimento. São eles:  
 
 `Flask`: Um micro framework para desenvolvimento web;  
 e `Flask-PyMongo`, com o objetivo de fazer a ponte entre o Flask e o MongoBD, garantindo conveniencia e praticidade. 
 
-Também utilizamos `Botstrap`.
 
 --------------------------------------------------------------------
 
@@ -20,8 +19,8 @@ Também utilizamos `Botstrap`.
 
 ### Banco de Dados:
 
-
-* Ter instralado o MongoDB na máquina;
+#### É necessário:
+* Ter instalado o MongoDB na máquina;
 * Estabelecer uma conexão local com as seguintes configurações:
     > client = MongoClient('mongodb://localhost:27017/')  
     > db = client['TrabalhoMongo']  
@@ -30,9 +29,10 @@ Também utilizamos `Botstrap`.
 
 ### Gerais:
 
-* Ter isntalado na máquina a versão mais recente do Python;
+#### É necessário:
+* Ter instalado na máquina a versão mais recente do Python;
     > pode ser instalada com o comando: pip install pyton 
-    > caso já tenha o python instalado, para verificar a sua versão, no cmd digite: pip python -V
+    > caso já tenha o Python instalado, para verificar a sua versão, no cmd digite: pip python -V
 
 * Ter instalado na máquina o Flask para Python;
     > Pode ser instalada com o seguinte comando: pip install Flask
@@ -45,3 +45,15 @@ Também utilizamos `Botstrap`.
 Para acessar a aplicação, basta acessar o diretório no terminal e digitar o seguinte comando:  
       
     D:\projetos\TrabalhoNOSQL> python app.py
+
+## Considerando o diretório do trabalho. O diretório pode variar na sua máquina.
+
+----------------------------------------------------------------------
+
+## Link para o vídeo no YouTube:
+
+    Inserir o link aqui
+----------------------------------------------------------------------
+
+FIM!
+
