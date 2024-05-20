@@ -53,7 +53,7 @@ Obs: O diretório pode variar na sua máquina.
 
 ## Link para o vídeo no YouTube:
 
-    Inserir o link aqui
+    https://www.youtube.com/watch?v=sTuqyT57QK8
 ----------------------------------------------------------------------
 
 FIM!
